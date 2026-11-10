@@ -1,6 +1,6 @@
 <header hidden></header>
 
-# Hi there, I'm Akari 👋
+# Hi there, I'm Akari 🤶
 
 Backend Software Engineer based in Tokyo, Japan, focusing on backend development, trading system integration, release deployments, and automated testing.
 
@@ -8,7 +8,7 @@ last update: 2026-11-10
 
 ---
 
-## 🛠️ Technical Skills
+## 🎄 Technical Skills
 
 | Category | Technologies |
 | :--- | :--- |
@@ -20,7 +20,7 @@ last update: 2026-11-10
 
 ---
 
-## 💼 Work Experience
+## 🎁 Work Experience
 
 ### **Software Engineer** | Morgan Stanley
 `10/2025 – Present` | Tokyo, Japan
@@ -40,25 +40,25 @@ last update: 2026-11-10
 
 ---
 
-## 🚀 Personal Projects
+## ⛄ Personal Projects
 
-* **LLM-Based Code Reviewer Web Application** *(02/2025 – 05/2025)*
-  * Built a full-stack Python application integrating cloud (GPT-4o) and local (TinySwallow GGUF) LLMs with a dynamic mode-switching API client.
-  * Interactive Gradio interface with FastAPI backend, database management, input validation, and resilient error handling.
+- **LLM-Based Code Reviewer Web Application** *(02/2025 – 05/2025)*
+  - Built a full-stack Python application integrating cloud (GPT-4o) and local (TinySwallow GGUF) LLMs with a dynamic mode-switching API client.
+  - Interactive Gradio interface with FastAPI backend, database management, input validation, and resilient error handling.
 
-* **Personal Portfolio Website** *(10/2024)*
-  * Responsive personal portfolio deployed via GitHub Pages using React, Vite, and Tailwind CSS.
-
----
-
-## 🤝 Community & Volunteer Work
-
-* **EdTech & STEM Volunteer Educator** — *NPO Katariba* *(07/2026)*: Taught block-programming workshops in Scratch to youth.
-* **Teaching Assistant** — *NPO Waffle (Technovation Girls)* *(01/2023)*: Mentored female students in foundational programming principles.
+- **Personal Portfolio Website** *(10/2024)*
+  - Responsive personal portfolio deployed via GitHub Pages using React, Vite, and Tailwind CSS.
 
 ---
 
-## 🌐 Languages
+## ❄️ Volunteer Experience
+
+- **EdTech & STEM Volunteer Educator** — *NPO Katariba* *(07/2026)*: Taught block-programming workshops in Scratch to youth.
+- **Teaching Assistant** — *NPO Waffle (Technovation Girls)* *(01/2023)*: Mentored female students in foundational programming principles.
+
+---
+
+## 🎀 Languages
 
 - 🇺🇸 **English**: Professional Working Proficiency
 - 🇯🇵 **Japanese**: Native / Bilingual
@@ -66,7 +66,7 @@ last update: 2026-11-10
 
 ---
 
-## 📫 Connect with Me
+## 🍬 Connect with Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/linmagari](https://linkedin.com/in/linmagari)
-- 🐙 **GitHub**: [github.com/qulinn](https://github.com/qulinn)
+- 🔔 **LinkedIn**: [linmagari](https://linkedin.com/in/linmagari)
+- 🧦 **GitHub**: [qulinn](https://github.com/qulinn)
