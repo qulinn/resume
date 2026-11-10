@@ -20,7 +20,7 @@ last update: 2026-11-10
 
 ## 💼 Work Experience
 
-### **Software Engineer** | *Morgan Stanley*
+### **Software Engineer** | Morgan Stanley
 `10/2025 – Present` | Tokyo, Japan
 - Executed backend development, configuration updates, and system integration for a high-touch trading order management system.
 - Handled release and deployment workflows to push system updates, configuration changes, and feature rollouts to production.
@@ -28,11 +28,11 @@ last update: 2026-11-10
 - Implemented comprehensive automated test cases for the modernized core order-logging system, ensuring data integrity, robust audit tracking, and minimized regression risks.
 - Active member of the campus hiring committee, managing graduate recruitment, online assessments, and intern matching.
 
-### **Software Engineer Intern** | *Apple*
+### **Software Engineer Intern** | Apple
 `04/2024 – 09/2024` | Tokyo, Japan
 - Worked on the iOS SpringBoard team, focusing on research replacements to scale performance and system architecture.
 
-### **Software Engineer Intern** | *Google*
+### **Software Engineer Intern** | Google
 `08/2022 – 12/2022` | Tokyo, Japan
 - Worked on the ChromeOS networking team, implementing APIs to the App Runtime for Chrome to enable local-only hotspots.
 
