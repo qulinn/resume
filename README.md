@@ -1,3 +1,5 @@
+<header hidden></header>
+
 # Hi there, I'm Akari 👋
 
 Backend Software Engineer based in Tokyo, Japan, focusing on backend development, trading system integration, release deployments, and automated testing.
